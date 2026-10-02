@@ -45,6 +45,7 @@ Some of the things it tracks are:
 - Wall-load indicator
 
 ## The GUI
+![Fusion Reactor Control System](image.png)
 
 The project has a Tkinter-based control-room interface.
 
